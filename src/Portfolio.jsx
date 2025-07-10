@@ -388,7 +388,7 @@ export default function Portfolio() {
       {/* Footer */}
       <footer className="footer">
         <div className="footer-box">
-          <p className="footer-text">© 2024 DAVID POMASIN | FUNCTION &gt; FORM</p>
+          <p className="footer-text">© 2025 DAVID POMASIN | FUNCTION &gt; FORM</p>
         </div>
       </footer>
 
