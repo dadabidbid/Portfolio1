@@ -345,7 +345,7 @@ export default function Portfolio() {
             <div className="contact-grid">
               <div className="contact-item">
                 <Mail size={48} className="contact-icon" />
-                <h3 className="contact-title">EMAIL</h3>
+                <h3 className="contact-title">DAVIDPOMASINSP@GMAIL.COM</h3>
                 <a href="mailto:davidpomasinsp@email.com" className="contact-link">
                   SEND MESSAGE
                 </a>
@@ -353,7 +353,7 @@ export default function Portfolio() {
 
               <div className="contact-item">
                 <Github size={48} className="contact-icon" />
-                <h3 className="contact-title">GITHUB</h3>
+                <h3 className="contact-title">GITHUB.COM/DADABIDBID</h3>
                 <a
                   href="https://github.com/dadabidbid"
                   className="contact-link"
@@ -366,7 +366,7 @@ export default function Portfolio() {
 
               <div className="contact-item">
                 <Linkedin size={48} className="contact-icon" />
-                <h3 className="contact-title">LINKEDIN</h3>
+                <h3 className="contact-title">LINKEDIN.COM/DAVID-POMASIN</h3>
                 <a
                   href="https://www.linkedin.com/in/david-pomasin-15314b360/"
                   className="contact-link"
