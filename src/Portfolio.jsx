@@ -271,7 +271,7 @@ export default function Portfolio() {
           <h2 className="section-title">EXPERIENCE.PDF</h2>
           <div className="resume-grid">
             <div className="resume-box">
-              <h3 className="resume-heading">PROFESSIONAL EXPERIENCE</h3>
+              <h3 className="resume-heading">LEADERSHIP & EXPERIENCE</h3>
 
               <div className="experience-item">
                 <h4 className="job-title">FULL-STACK DEVELOPER (Student Project)</h4>
@@ -289,7 +289,7 @@ export default function Portfolio() {
 
               <div className="experience-item">
                 <h4 className="job-title">AUSG REPRESENTATIVE</h4>
-                <p className="job-company">AWSSCC-ADU (AWS Cloud Club – Adamson University) | 2024 – Present</p>
+                <p className="job-company">AWSSCC-ADU (AWS Cloud Club – Adamson University) | JUNE 2025 – Present</p>
                 <ul className="job-duties">
                   <li>Serves as the student government liaison for AWS-related initiatives and events</li>
                   <li>Facilitates communication between the organization and the Adamson University student council</li>
@@ -298,7 +298,7 @@ export default function Portfolio() {
 
               <div className="experience-item">
                 <h4 className="job-title">STUDENT REPRESENTATIVE, LEGISLATIVE COUNCIL OF LEADERS (LCL)</h4>
-                <p className="job-company">Adamson University | June 2025 – Present</p>
+                <p className="job-company">Adamson University | JUNE 2025 – Present</p>
                 <ul className="job-duties">
                   <li>
                     Collaborate with student government and organization leaders to discuss university-wide student
