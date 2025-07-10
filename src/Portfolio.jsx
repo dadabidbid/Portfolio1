@@ -366,7 +366,7 @@ export default function Portfolio() {
 
               <div className="contact-item">
                 <Linkedin size={48} className="contact-icon" />
-                <h3 className="contact-title">LINKEDIN.COM/DAVID-POMASIN</h3>
+                <h3 className="contact-title">LINKEDIN/DAVID-POMASIN</h3>
                 <a
                   href="https://www.linkedin.com/in/david-pomasin-15314b360/"
                   className="contact-link"
